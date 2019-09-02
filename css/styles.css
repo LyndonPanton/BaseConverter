@@ -92,6 +92,12 @@ footer {
   text-align: center;
   font-size: 0.8em;
   color: #515151; }
+  footer #inspiration a {
+    text-decoration: none;
+    color: #515151; }
+  footer #inspiration a:hover {
+    text-decoration: underline;
+    color: #000000; }
 
 #hamburger {
   position: absolute;
