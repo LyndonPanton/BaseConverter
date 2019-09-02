@@ -44,6 +44,21 @@ main {
     margin-top: 20px; }
     main form h2 {
       font-size: 1.1em; }
+    main form label {
+      display: block;
+      padding: 10px 10px; }
+      main form label input {
+        display: block;
+        border: #DDDDDD solid 1px;
+        border-radius: 5px;
+        margin: 5px 0;
+        padding: 10px 15px;
+        width: 90%;
+        font-size: 1em; }
+    main form #label-base {
+      background-color: #CCDDFF; }
+    main form #label-number {
+      background-color: #DDEEFF; }
   main #introduction {
     margin-top: 40px; }
     main #introduction h2 {
