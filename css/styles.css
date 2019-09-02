@@ -50,6 +50,12 @@ nav {
   -webkit-background: linear-gradient(0deg, #CACACA 0%, #CACACA 20%, transparent 20%, transparent 40%, #CACACA 40%, #CACACA 60%, transparent 60%, transparent 80%, #CACACA 80%, #CACACA 100%);
   background: linear-gradient(0deg, #CACACA 0%, #CACACA 20%, transparent 20%, transparent 40%, #CACACA 40%, #CACACA 60%, transparent 60%, transparent 80%, #CACACA 80%, #CACACA 100%); }
 
+@media (min-width: 550px) {
+  header h1 {
+    padding-top: 10px;
+    padding-bottom: 10px; }
+  header #hamburger {
+    top: 14px; } }
 @media (min-width: 850px) {
   header {
     background-color: #FAFAFA; }
