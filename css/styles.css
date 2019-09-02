@@ -11,34 +11,50 @@ body, html {
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal; }
 
-h1 {
-  margin: 0;
-  padding-bottom: 5px;
-  text-align: center;
-  font-size: 1.25em;
-  color: #FFFFFF; }
-
 header {
   padding-top: 1px;
   background-color: #2C2C2C;
   color: #FFFFFF; }
-
-nav {
-  margin: 0;
-  border-bottom: #00C3FF solid 2px;
-  padding: 10px 0;
-  background-color: #EDEDED;
-  color: #515151; }
-  nav ul {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
+  header h1 {
     margin: 0;
-    padding: 0; }
-    nav ul li {
-      margin: 0 3vw;
-      list-style-type: none;
-      font-size: 0.8em; }
+    padding-bottom: 5px;
+    text-align: center;
+    font-size: 1.25em;
+    color: #FFFFFF; }
+  header nav {
+    margin: 0;
+    border-bottom: #00C3FF solid 2px;
+    padding: 10px 0;
+    background-color: #EDEDED;
+    color: #515151; }
+    header nav ul {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      margin: 0;
+      padding: 0; }
+      header nav ul li {
+        margin: 0 3vw;
+        list-style-type: none;
+        font-size: 0.8em; }
+
+main {
+  padding: 0 20px; }
+  main #introduction {
+    margin-top: 40px; }
+    main #introduction h2 {
+      margin: 0 0 6px 0;
+      font-size: 1.2em; }
+    main #introduction p {
+      margin: 0;
+      font-size: 0.8em;
+      color: #ACACAC; }
+  main #output h2 {
+    margin: 15px 0 0 0;
+    font-size: 1.1em; }
+  main #output p {
+    margin-left: 10px;
+    font-size: 0.8em; }
 
 #hamburger {
   position: absolute;
