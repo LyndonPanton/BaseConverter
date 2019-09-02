@@ -8,4 +8,17 @@ body, html {
   font-size: 16px;
   color: #000000; }
 
+#hamburger {
+  position: absolute;
+  top: 5px;
+  left: 10px;
+  border: #FFFFFF solid 5px;
+  width: 15px;
+  height: 10px;
+  -moz-background: linear-gradient(0deg, #CACACA 0%, #CACACA 20%, transparent 20%, transparent 40%, #CACACA 40%, #CACACA 60%, transparent 60%, transparent 80%, #CACACA 80%, #CACACA 100%);
+  -ms-background: linear-gradient(0deg, #CACACA 0%, #CACACA 20%, transparent 20%, transparent 40%, #CACACA 40%, #CACACA 60%, transparent 60%, transparent 80%, #CACACA 80%, #CACACA 100%);
+  -o-background: linear-gradient(0deg, #CACACA 0%, #CACACA 20%, transparent 20%, transparent 40%, #CACACA 40%, #CACACA 60%, transparent 60%, transparent 80%, #CACACA 80%, #CACACA 100%);
+  -webkit-background: linear-gradient(0deg, #CACACA 0%, #CACACA 20%, transparent 20%, transparent 40%, #CACACA 40%, #CACACA 60%, transparent 60%, transparent 80%, #CACACA 80%, #CACACA 100%);
+  background: linear-gradient(0deg, #CACACA 0%, #CACACA 20%, transparent 20%, transparent 40%, #CACACA 40%, #CACACA 60%, transparent 60%, transparent 80%, #CACACA 80%, #CACACA 100%); }
+
 /*# sourceMappingURL=styles.css.map */
