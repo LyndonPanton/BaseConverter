@@ -40,6 +40,10 @@ header {
 
 main {
   padding: 0 20px; }
+  main form {
+    margin-top: 20px; }
+    main form h2 {
+      font-size: 1.1em; }
   main #introduction {
     margin-top: 40px; }
     main #introduction h2 {
