@@ -59,6 +59,8 @@ nav {
     padding-bottom: 10px; }
   header nav {
     border-bottom-width: 3px; }
+    header nav ul li {
+      font-size: 0.9em; }
   header #hamburger {
     top: 14px; } }
 @media (min-width: 850px) {
