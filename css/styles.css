@@ -10,20 +10,37 @@ body, html {
 
 h1 {
   margin: 0;
+  padding-bottom: 5px;
   text-align: center;
-  font-size: 20px;
+  font-size: 1.25em;
   color: #FFFFFF; }
 
 header {
-  padding: 1px;
-  background-color: #3C3C3C;
+  padding-top: 1px;
+  background-color: #2C2C2C;
   color: #FFFFFF; }
+
+nav {
+  margin: 0;
+  padding: 10px 0;
+  background-color: #EDEDED;
+  color: #515151; }
+  nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0;
+    padding: 0; }
+    nav ul li {
+      margin: 0 3vw;
+      list-style-type: none;
+      font-size: 0.8em; }
 
 #hamburger {
   position: absolute;
   top: 5px;
   left: 10px;
-  border: #3C3C3C solid 5px;
+  border: #2C2C2C solid 5px;
   width: 15px;
   height: 10px;
   -moz-background: linear-gradient(0deg, #CACACA 0%, #CACACA 20%, transparent 20%, transparent 40%, #CACACA 40%, #CACACA 60%, transparent 60%, transparent 80%, #CACACA 80%, #CACACA 100%);
