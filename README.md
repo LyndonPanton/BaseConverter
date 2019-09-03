@@ -20,7 +20,7 @@
 > 1. Users can convert decimal numbers to a chosen base
 
 ## Errors
-> 1. Bases above 36 are not functioning correctly
+> 1. Add logic for bases over 36
 
 ## Preview
 <!-- todo -->
