@@ -24,3 +24,15 @@
 
 ## Preview
 <!-- todo -->
+![Screenshot 1](./img/screenshot1.png)
+![Screenshot 2](./img/screenshot2.png)
+![Screenshot 3](./img/screenshot3.png)
+![Screenshot 4](./img/screenshot4.png)
+![Screenshot 5](./img/screenshot5.png)
+![Screenshot 6](./img/screenshot6.png)
+![Screenshot 7](./img/screenshot7.png)
+![Screenshot 8](./img/screenshot8.png)
+![Screenshot 9](./img/screenshot9.png)
+![Screenshot 10](./img/screenshot10.png)
+![Screenshot 11](./img/screenshot11.png)
+![Screenshot 12](./img/screenshot12.png)
