@@ -144,8 +144,7 @@ footer {
         padding: 20px 0;
         font-size: 1em; }
       header nav ul li:hover {
-        text-decoration: underline;
-        color: #EEEEFF; }
+        text-decoration: underline; }
     header #hamburger {
       display: none; } }
 
